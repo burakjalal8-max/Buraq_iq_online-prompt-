@@ -1,0 +1,6 @@
+{
+  "name": "Buraq IQ AI Studio",
+  "description": "منصة Buraq IQ AI Studio لاستخراج وتوليد برومبت الصور الاحترافي باللغتين العربية والإنجليزية بدقة فائقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
